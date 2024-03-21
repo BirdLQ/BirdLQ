@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm BirdLQ</h1>
+<h3 align="center">Aspiring Software Engineer</h3>
 
-~Aspiring Software Engineer~
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=birdlq&label=Profile%20views&color=0e75b6&style=flat" alt="birdlq" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BirdLQ&hide=prs,issues,contribs&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
